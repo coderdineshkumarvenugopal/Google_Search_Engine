@@ -1,0 +1,111 @@
+*{
+  padding: 0%;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  
+}
+.gcam {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  margin-top: 147px;
+  margin-left: 225px;
+}
+
+.gmic{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  margin-top: 147px;
+  margin-left: 186px;
+}
+.App-search{
+  height:6vmin;
+  width: 70vmin;
+  border-radius: 50px;
+}
+.googlesearch{
+  font-size: 15px;
+  position: absolute;
+  padding: 8px;
+  border: 1px solid gray;
+  border-radius: 15px;
+  margin-top: 390px;
+  margin-right: 200px;
+}
+.feelinglucky{
+  font-size: 15px;
+  position: absolute;
+  padding: 8px;
+  border: 1px solid gray;
+  border-radius: 15px;
+  margin-top: 390px;
+  margin-left: 200px;
+}
+.App-header {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.classname
+{
+  display: flex;
+  position: absolute;
+  color: black;
+  margin-left: 170vmin;
+  margin-bottom: 68vmin;
+  font-size: 0.54em;
+}
+.gacc {
+  position: absolute; 
+  border-radius: 20px;
+  margin-left: 32vmin;
+}
+.gmail
+{
+  margin-top: 10px;
+  margin-left: 100px;
+}
+.images
+{
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.l1
+{
+  text-decoration: none !important;
+  margin-right:10px;
+}
+a{
+  text-decoration: none !important;
+}
+.offer {
+  position: absolute; 
+  margin-left: 78vmin;
+  font-size: smaller;
+  margin-top: -40px;
+
+}
+.language
+{
+  display: flex;
+  position: absolute;
+  margin-left: 95vmin;
+  margin-top: -40px;
+  padding-right: 10px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
